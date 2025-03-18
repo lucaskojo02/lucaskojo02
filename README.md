@@ -31,6 +31,7 @@ This account contains various web application development and data science proje
 ## 🚀 What you'll find here:
 
 -  **My projects** (public ones, of course!)
+-  **Contributions to open-source projects** (always open to collaboration!)
 
 ---
 
