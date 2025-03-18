@@ -55,5 +55,5 @@ With a strong foundation in **data science, machine learning, and full-stack dev
 ---
 
 ## 🌍 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/linkedin.com/in/lucas-kojo-42a0b328b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/lucas-kojo-42a0b328b)  
 📧 *Email:* [lucaskojo02@gmail.com](mailto:lucaskojo02@gmail.com) 
