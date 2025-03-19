@@ -9,7 +9,7 @@ With a strong foundation in **data science, machine learning, and full-stack dev
 
 ## ⚙️ Tools & Technologies  
 
-### **Programming Languages**  
+### **🛠 Programming & Scripting Languages:**  
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -19,18 +19,18 @@ With a strong foundation in **data science, machine learning, and full-stack dev
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### **Web & Backend Development**  
+### **🖥️ Web & Backend Development:**  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### **Databases**  
+### **💾 Databases & Storage:**  
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### **Data Science & Machine Learning**  
+### **📊 Data Science & Machine Learning:**  
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -38,7 +38,7 @@ With a strong foundation in **data science, machine learning, and full-stack dev
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### **Version Control & DevOps**  
+### **🛠 DevOps & Version Control:**  
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
