@@ -40,6 +40,8 @@ My journey in technology is driven by curiosity, problem-solving, and a deep ent
 
 ### 📊 Data Science & Machine Learning  
 <p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
