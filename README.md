@@ -70,10 +70,10 @@ A complete exam management platform with student registration, unit selection, a
 **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
 
 <p>
-  <a href="https://github.com/yourusername/student-exam-system" target="_blank">
+  <a href="https://lucaskojo02.github.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
-  <a href="https://exam-system-demo.vercel.app/" target="_blank">
+  <a href="https://lucaskojo02.github.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
   </a>
 </p>
@@ -100,7 +100,7 @@ A collection of Python-based data analysis notebooks and visualizations covering
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks  
 
 <p>
-  <a href="https://github.com/yourusername/data-analysis-projects" target="_blank">
+  <a href="https://lucaskojo02.github.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
 </p>
