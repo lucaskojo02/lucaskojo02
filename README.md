@@ -1,47 +1,55 @@
-# 🚀 Lucas Kojo 
-**Developer | Data Scientist**  
+# 🚀 Lucas Kojo  
+**Developer | Data Scientist**
 
-Welcome to my GitHub profile! I'm **Kojo**, a passionate data scientist and software developer currently pursuing my studies at **Jomo Kenyatta University of Agriculture and Technology (JKUAT) - Karen Campus**.  
+Welcome to my GitHub profile! I'm **Kojo**, a passionate data scientist and full-stack developer currently pursuing my studies at **Jomo Kenyatta University of Agriculture and Technology (JKUAT) - Karen Campus**.
 
-With a strong foundation in **data science, machine learning, and full-stack development**, I specialize in building intelligent applications that derive insights from data, automate tasks, and enhance user experiences. My journey in technology is driven by curiosity, problem-solving, and a deep enthusiasm for leveraging data to create impactful solutions.  
+With a strong foundation in **data science, machine learning, and full-stack development**, I specialize in building intelligent applications that derive insights from data, automate tasks, and enhance user experiences. I have hands-on experience in developing modern web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, combined with responsive design frameworks like **Bootstrap**.
+
+My journey in technology is driven by curiosity, problem-solving, and a deep enthusiasm for leveraging data to create impactful solutions.
 
 ---
 
-## ⚙️ Tools & Technologies  
+## ⚙️ Tools & Technologies
 
-### **🛠 Programming & Scripting Languages:**  
+### 🛠 Programming Languages  
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 </p>
 
-### **🖥️ Web & Backend Development:**  
+### 🖥️ Web & Backend Development  
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-### **💾 Databases & Storage:**  
+### 💾 Databases  
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
-### **📊 Data Science & Machine Learning:**  
+### 📊 Data Science & Machine Learning  
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF9900?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
 </p>
 
-### **🛠 DevOps & Version Control:**  
+### 🛠 DevOps & Version Control  
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </p>
 
 ---
@@ -49,16 +57,60 @@ With a strong foundation in **data science, machine learning, and full-stack dev
 ## 📌 What You'll Find Here  
 ✅ **My ongoing projects** – Public repositories showcasing my work in data science, web development, and AI.  
 ✅ **Code snippets & experiments** – Exploring new technologies, algorithms, and best practices.  
-✅ **Open-source contributions** – Always open to collaborating on innovative projects!  
+✅ **Open-source contributions** – Always open to collaborating on innovative projects!
+
+---
+
+## 🚧 Featured Projects
+
+### 🎥 Student Exam System (Full Stack Web App)  
+A complete exam management platform with student registration, unit selection, assessments (CATs/Exams), result generation, and an admin dashboard.  
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
+
+<p>
+  <a href="https://github.com/yourusername/student-exam-system" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+  <a href="https://exam-system-demo.vercel.app/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" />
+  </a>
+</p>
+
+---
+
+### 📺 YouTube Clone (MERN Stack)  
+A simplified YouTube-like platform supporting video uploads, streaming, likes, comments, and user authentication.  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Bootstrap  
+
+<p>
+  <a href="https://github.com/yourusername/youtube-clone" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+  <a href="https://youtube-clone-demo.netlify.app/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 Data Analysis Projects  
+A collection of Python-based data analysis notebooks and visualizations covering real-world datasets in health, finance, and more.  
+**Tech Stack:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebooks  
+
+<p>
+  <a href="https://github.com/yourusername/data-analysis-projects" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+</p>
 
 ---
 
 ## 🌍 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-kojo-42a0b328b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>  
   <a href="mailto:lucaskojo02@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" />
   </a>
 </p>
