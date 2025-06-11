@@ -85,7 +85,7 @@ A simplified YouTube-like platform supporting video uploads, streaming, likes, c
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Bootstrap  
 
 <p>
-  <a href="https://lucaskojo02/youtube_website" target="_blank">
+  <a href="https://github.com/lucaskojo02/youtube_website" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
   <a href="https://lucaskojo02.github.io/youtube_website/" target="_blank">
