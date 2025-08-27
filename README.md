@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm **Kojo**, a passionate data scientist and full-stack developer currently pursuing my studies at **Jomo Kenyatta University of Agriculture and Technology (JKUAT) - Karen Campus**.
 
-With a strong foundation in **data science, machine learning, and full-stack development**, I specialize in building intelligent applications that derive insights from data, automate tasks, and enhance user experiences. I have hands-on experience in developing modern web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, combined with responsive design frameworks like **Bootstrap**.
+With a strong foundation in **data science, machine learning, and full-stack development**, I specialize in building intelligent applications that derive insights from data, automate tasks, and enhance user experiences. I have hands-on experience in developing modern web applications using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**, combined with responsive design frameworks like **Tailwind**.
 
 My journey in technology is driven by curiosity, problem-solving, and a deep enthusiasm for leveraging data to create impactful solutions.
 
@@ -29,6 +29,10 @@ My journey in technology is driven by curiosity, problem-solving, and a deep ent
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" />
+
 </p>
 
 ### 💾 Databases  
@@ -36,6 +40,7 @@ My journey in technology is driven by curiosity, problem-solving, and a deep ent
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+
 </p>
 
 ### 📊 Data Science & Machine Learning  
