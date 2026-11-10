@@ -241,11 +241,23 @@ Recall is a web application for turning web links into an organized personal kno
 
 **Live application:** [recall-lk.vercel.app](https://recall-lk.vercel.app/)
 
-### LiveLine — Cross-Platform Mobile Application
+### [Nexus](https://github.com/lucaskojo02/Nexus) — Social Networking Platform
 
-A mobile application project focused on a modern cross-platform development workflow, with a dedicated API, authentication, and shared data-access architecture.
+Nexus is an X-inspired social networking application built with a TypeScript-first monorepo architecture. It combines a cross-platform mobile client with a Bun-powered backend, bringing together social interactions, asynchronous workflows, notifications, and engagement analytics.
 
-**Technologies:** Expo, React Native, TypeScript, Expo Router, ElysiaJS, Better Auth, Drizzle ORM, Turso.
+- **Social interactions:** Implemented post creation, editing and deletion, likes, comments, replies, following, and related social features.
+- **Optimistic UI:** Used TanStack Query mutation lifecycles to update the interface immediately for actions such as creating, liking, unliking, and deleting posts, with cache rollback when mutations fail.
+- **Background job processing:** Built an outbox-based notification pipeline with Upstash QStash, scheduled processing, retry handling, and dead-letter queue callbacks.
+- **Notification system:** Implemented notifications for new posts from followed users, follows, post likes, profile views, and comment/reply activity.
+- **Engagement analytics:** Built profile-view and post-view tracking, including unique-viewer metrics, audience breakdowns, and time-based analytics.
+- **Observability:** Integrated Sentry across the Bun backend and React Native application for error and performance monitoring.
+- **Real-time messaging:** Direct and group messaging using ElysiaJS WebSockets is currently in development.
+
+**Technologies:** TypeScript, Bun, Bun Workspaces, Turborepo, ElysiaJS, React Native, Expo, Expo Router, TanStack Query, Eden Treaty, Better Auth, Drizzle ORM, Turso, Upstash QStash, Sentry, NativeWind.
+
+**Repository:** [github.com/lucaskojo02/Nexus](https://github.com/lucaskojo02/Nexus) (private repository; access required)
+
+**Status:** In development. Messaging is an ongoing feature.
 
 ### StoreManager / ShopStack — Product & Inventory Management
 
