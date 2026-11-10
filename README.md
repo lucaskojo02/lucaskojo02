@@ -207,14 +207,14 @@ I enjoy exploring the engineering decisions behind reliable, maintainable applic
 
 ## 🚧 Selected Projects
 
-Most of my recent development work is in private repositories, so the projects below are examples of what I'm building rather than links to public source code.
+Some of my recent development work is in private repositories. Where a project has a live deployment, I've included a link so you can explore it.
 
-| Project | Description | Technologies |
-|---|---|---|
-| **Recall** | A saved-content and bookmark management application with AI-powered summaries and organization. | TanStack Start, TypeScript, Better Auth, Drizzle, Turso, Upstash, Brevo |
-| **LiveLine** | A cross-platform mobile application built around a modern API and authentication architecture. | Expo, React Native, TypeScript, ElysiaJS, Better Auth, Drizzle |
-| **StoreManager / ShopStack** | Product and inventory management work exploring modern data and synchronization patterns. | TanStack Start, TypeScript, Drizzle, Neon, PowerSync, Sentry |
-| **Juriclad Group** | An independent legal intelligence and research platform. | TypeScript, React, TanStack ecosystem |
+| Project | Description | Technologies | Links |
+|---|---|---|---|
+| **Recall** | A saved-content and bookmark management application with AI-powered summaries and organization. | TanStack Start, TypeScript, Better Auth, Drizzle, Turso, Upstash, Brevo | [Live Demo](https://recall-lk.vercel.app/) |
+| **LiveLine** | A cross-platform mobile application built around a modern API and authentication architecture. | Expo, React Native, TypeScript, ElysiaJS, Better Auth, Drizzle | In development |
+| **StoreManager / ShopStack** | Product and inventory management work exploring modern data and synchronization patterns. | TanStack Start, TypeScript, Drizzle, Neon, PowerSync, Sentry | — |
+| **Juriclad Group** | An independent legal intelligence and research platform with public content pages and protected member publishing workflows. | Bun, Express.js, TypeScript, React, Tailwind CSS | [Live Website](https://juricladgroup.org/) |
 
 ---
 
