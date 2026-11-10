@@ -217,6 +217,9 @@ Most of my recent development work is in private repositories, so the projects b
 <p align="center">
   <img src="./profile/stats.svg" height="180" alt="GitHub profile statistics" />
   <img src="./profile/top-langs.svg" height="180" alt="Most used programming languages" />
+</p>
+
+<p align="center">
   <img src="./profile/streak.svg" height="180" alt="GitHub contribution streak" />
 </p>
 
