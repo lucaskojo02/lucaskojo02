@@ -1,6 +1,9 @@
 name: Update GitHub profile statistics
 
 on:
+  push:
+    paths:
+      - ".github/workflows/update-readme-stats.yml"
   schedule:
     - cron: "17 3 * * *"
   workflow_dispatch:
