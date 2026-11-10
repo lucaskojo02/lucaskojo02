@@ -47,14 +47,20 @@ The sections below distinguish the tools I currently use from technologies I've 
 <p>
   <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="28" alt="Bun" />
   <img src="https://img.shields.io/badge/ElysiaJS-8B5CF6?style=for-the-badge" height="28" alt="ElysiaJS" />
-  <img src="https://img.shields.io/badge/Eden-8B5CF6?style=for-the-badge" height="28" alt="Eden" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
 </p>
 
 - **Bun** – runtime, package manager, and workspace tooling
 - **ElysiaJS** – backend APIs and server applications
-- **Eden** – end-to-end type-safe API clients
 - REST APIs and modular service-oriented application architecture
+
+#### API Clients & End-to-End Type Safety
+<p>
+  <img src="https://img.shields.io/badge/Eden%20Treaty-8B5CF6?style=for-the-badge" height="28" alt="Eden Treaty" />
+</p>
+
+- **Eden Treaty** – type-safe client for consuming ElysiaJS APIs, with request and response types inferred from backend route definitions
+- Shared API contracts between frontend, backend, and mobile applications
 
 #### Mobile Development
 <p>
