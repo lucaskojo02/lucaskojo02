@@ -30,6 +30,7 @@ The sections below distinguish the tools I currently use from technologies I've 
 #### Frontend & TanStack Ecosystem
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="44" alt="React, Tailwind CSS and Vite" />
+  <img src="https://cdn.simpleicons.org/tanstack" height="44" alt="TanStack" />
 </p>
 
 - **TanStack:** Start, Router, Query, Form, Table, Virtual, and related developer tools
@@ -40,6 +41,7 @@ The sections below distinguish the tools I currently use from technologies I've 
 #### Backend & API Development
 <p>
   <img src="https://skillicons.dev/icons?i=bun,nodejs" height="44" alt="Bun and Node.js" />
+  <img src="https://img.shields.io/badge/ElysiaJS-6B46C1?style=for-the-badge&logoColor=white" height="28" alt="ElysiaJS" />
 </p>
 
 - **Bun** – runtime, package manager, and workspace tooling
@@ -49,7 +51,8 @@ The sections below distinguish the tools I currently use from technologies I've 
 
 #### Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo" height="44" alt="React Native and Expo" />
+  <img src="https://skillicons.dev/icons?i=react" height="44" alt="React" />
+  <img src="https://cdn.simpleicons.org/expo" height="44" alt="Expo" />
 </p>
 
 - **React Native**
@@ -92,7 +95,8 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Monorepos, Tooling & Developer Experience
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,turborepo,docker,linux,vscode" height="44" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" height="44" alt="Developer tools" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logoColor=white" height="28" alt="Turborepo" />
 </p>
 
 - **Bun Workspaces**
@@ -103,7 +107,7 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Data Science & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" height="44" alt="Python, TensorFlow and scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" height="44" alt="Python and TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="44" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="44" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="44" alt="Matplotlib" />
@@ -159,16 +163,11 @@ Most of my recent development work is in private repositories, so the projects b
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaskojo02&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskojo02&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
-</p>
+For the most accurate and up-to-date view of my activity, repositories, and languages, visit my [GitHub profile](https://github.com/lucaskojo02).
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lucaskojo02&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+> **Note:** I've removed the third-party statistics cards for now. Their public hosting can be unreliable or rate-limited, which may cause broken images. I'd rather keep this section clean than display statistics that fail to load.
 
 ---
 
