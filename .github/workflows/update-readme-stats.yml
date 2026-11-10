@@ -19,6 +19,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Require private-repository statistics token
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "STATS_TOKEN is missing. Add a GitHub PAT with repo and read:user access in repository Actions secrets."
+            exit 1
+          fi
       - name: Check out profile repository
         uses: actions/checkout@v6
 
@@ -28,7 +36,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true
           path: profile/stats.svg
-          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           fail_on_error: true
 
       - name: Generate top languages card
