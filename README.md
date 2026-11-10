@@ -207,14 +207,51 @@ I enjoy exploring the engineering decisions behind reliable, maintainable applic
 
 ## 🚧 Selected Projects
 
-Some of my recent development work is in private repositories. Where a project has a live deployment, I've included a link so you can explore it.
+These projects demonstrate my work across full-stack web development, mobile engineering, and practical AI integrations. Some source repositories are private, but the live applications below are available to explore.
 
-| Project | Description | Technologies | Links |
-|---|---|---|---|
-| **Recall** | A saved-content and bookmark management application with AI-powered summaries and organization. | TanStack Start, TypeScript, Better Auth, Drizzle, Turso, Upstash, Brevo | [Live Demo](https://recall-lk.vercel.app/) |
-| **LiveLine** | A cross-platform mobile application built around a modern API and authentication architecture. | Expo, React Native, TypeScript, ElysiaJS, Better Auth, Drizzle | In development |
-| **StoreManager / ShopStack** | Product and inventory management work exploring modern data and synchronization patterns. | TanStack Start, TypeScript, Drizzle, Neon, PowerSync, Sentry | — |
-| **Juriclad Group** | An independent legal intelligence and research platform with public content pages and protected member publishing workflows. | Bun, Express.js, TypeScript, React, Tailwind CSS | [Live Website](https://juricladgroup.org/) |
+### [Recall](https://recall-lk.vercel.app/) — AI-Powered Knowledge & Bookmark Manager
+
+Recall is a web application for turning web links into an organized personal knowledge library. It allows users to save online resources, extract and process their content, and make that information easier to revisit through AI-generated summaries and organization.
+
+- **Web content extraction:** Uses Firecrawl to retrieve and process content from saved URLs.
+- **AI-powered summaries:** Integrates language-model capabilities to generate concise summaries of saved resources.
+- **Organized knowledge library:** Helps users keep saved content and its extracted information organized for later reference.
+- **Authentication and persistence:** Uses Better Auth for authentication and Drizzle ORM with Turso/libSQL for data storage.
+- **Modern full-stack experience:** Built with TanStack Start and TypeScript, with AI features integrated through the AI SDK and OpenRouter.
+
+**Technologies:** TypeScript, React, TanStack Start, Better Auth, Drizzle ORM, Turso/libSQL, Firecrawl, AI SDK, OpenRouter.
+
+**Live application:** [recall-lk.vercel.app](https://recall-lk.vercel.app/)
+
+### [Juriclad Group](https://juricladgroup.org/) — Legal Intelligence & Research Platform
+
+Juriclad Group is an independent legal intelligence and research platform built to serve legal students and the wider legal community with legal information, research resources, and publications.
+
+I developed the website with a public-facing experience and a protected member area for contributing content.
+
+- **Public website:** Built approximately eight public-facing routes presenting the platform, its information, and its resources.
+- **Dynamic content pages:** Implemented detail pages for individual articles, team members, and other content, with approximately two to three dynamic route patterns.
+- **Protected member area:** Implemented authenticated routes that allow members to add articles and publish other materials.
+- **Content publishing workflow:** Supports both public consumption of published material and member contribution through protected functionality.
+- **Current implementation:** Built with a Bun and Express.js backend and a React, TypeScript, and Tailwind CSS frontend.
+
+**Technologies:** Bun, Express.js, TypeScript, React, Tailwind CSS.
+
+**Live website:** [juricladgroup.org](https://juricladgroup.org/)
+
+**Planned improvement:** I am planning to rewrite the platform using my current TypeScript stack, with TanStack Start as the full-stack React framework. This is a planned modernization, not the technology stack of the currently deployed website.
+
+### LiveLine — Cross-Platform Mobile Application
+
+A mobile application project focused on a modern cross-platform development workflow, with a dedicated API, authentication, and shared data-access architecture.
+
+**Technologies:** Expo, React Native, TypeScript, Expo Router, ElysiaJS, Better Auth, Drizzle ORM, Turso.
+
+### StoreManager / ShopStack — Product & Inventory Management
+
+A product and inventory management project exploring modern full-stack application development, database-backed workflows, media management, and reliable application architecture.
+
+**Technologies:** TanStack Start, TypeScript, Drizzle ORM, PostgreSQL, Cloudinary, Sentry.
 
 ---
 
