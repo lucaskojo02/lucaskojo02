@@ -209,20 +209,6 @@ I enjoy exploring the engineering decisions behind reliable, maintainable applic
 
 These projects demonstrate my work across full-stack web development, mobile engineering, and practical AI integrations. Some source repositories are private, but the live applications below are available to explore.
 
-### [Recall](https://recall-lk.vercel.app/) — AI-Powered Knowledge & Bookmark Manager
-
-Recall is a web application for turning web links into an organized personal knowledge library. It allows users to save online resources, extract and process their content, and make that information easier to revisit through AI-generated summaries and organization.
-
-- **Web content extraction:** Uses Firecrawl to retrieve and process content from saved URLs.
-- **AI-powered summaries:** Integrates language-model capabilities to generate concise summaries of saved resources.
-- **Organized knowledge library:** Helps users keep saved content and its extracted information organized for later reference.
-- **Authentication and persistence:** Uses Better Auth for authentication and Drizzle ORM with Turso/libSQL for data storage.
-- **Modern full-stack experience:** Built with TanStack Start and TypeScript, with AI features integrated through the AI SDK and OpenRouter.
-
-**Technologies:** TypeScript, React, TanStack Start, Better Auth, Drizzle ORM, Turso/libSQL, Firecrawl, AI SDK, OpenRouter.
-
-**Live application:** [recall-lk.vercel.app](https://recall-lk.vercel.app/)
-
 ### [Juriclad Group](https://juricladgroup.org/) — Legal Intelligence & Research Platform
 
 Juriclad Group is an independent legal intelligence and research platform built to serve legal students and the wider legal community with legal information, research resources, and publications.
@@ -241,6 +227,20 @@ I developed the website with a public-facing experience and a protected member a
 
 **Planned improvement:** I am planning to rewrite the platform using my current TypeScript stack, with TanStack Start as the full-stack React framework. This is a planned modernization, not the technology stack of the currently deployed website.
 
+### [Recall](https://recall-lk.vercel.app/) — AI-Powered Knowledge & Bookmark Manager
+
+Recall is a web application for turning web links into an organized personal knowledge library. It allows users to save online resources, extract and process their content, and make that information easier to revisit through AI-generated summaries and organization.
+
+- **Web content extraction:** Uses Firecrawl to retrieve and process content from saved URLs.
+- **AI-powered summaries:** Integrates language-model capabilities to generate concise summaries of saved resources.
+- **Organized knowledge library:** Helps users keep saved content and its extracted information organized for later reference.
+- **Authentication and persistence:** Uses Better Auth for authentication and Drizzle ORM with Turso/libSQL for data storage.
+- **Modern full-stack experience:** Built with TanStack Start and TypeScript, with AI features integrated through the AI SDK and OpenRouter.
+
+**Technologies:** TypeScript, React, TanStack Start, Better Auth, Drizzle ORM, Turso/libSQL, Firecrawl, AI SDK, OpenRouter.
+
+**Live application:** [recall-lk.vercel.app](https://recall-lk.vercel.app/)
+
 ### LiveLine — Cross-Platform Mobile Application
 
 A mobile application project focused on a modern cross-platform development workflow, with a dedicated API, authentication, and shared data-access architecture.
@@ -252,7 +252,6 @@ A mobile application project focused on a modern cross-platform development work
 A product and inventory management project exploring modern full-stack application development, database-backed workflows, media management, and reliable application architecture.
 
 **Technologies:** TanStack Start, TypeScript, Drizzle ORM, PostgreSQL, Cloudinary, Sentry.
-
 ---
 
 ## 📊 GitHub Statistics
