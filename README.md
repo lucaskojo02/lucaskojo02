@@ -62,6 +62,9 @@ The sections below distinguish the tools I currently use from technologies I've 
 #### Databases & Data Access
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite" height="44" alt="PostgreSQL and SQLite" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111111" height="28" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=111111" height="28" alt="Neon" />
+  <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=111111" height="28" alt="Turso" />
 </p>
 
 - **Drizzle ORM** and Drizzle Kit
@@ -72,6 +75,9 @@ The sections below distinguish the tools I currently use from technologies I've 
 I choose the database based on each project's requirements rather than forcing every application onto one database platform.
 
 #### Authentication & Application Security
+<p>
+  <img src="https://img.shields.io/badge/Better_Auth-222222?style=for-the-badge&logoColor=white" height="28" alt="Better Auth" />
+</p>
 
 - **Better Auth**
 - OAuth and social sign-in
@@ -80,12 +86,22 @@ I choose the database based on each project's requirements rather than forcing e
 - Secure API and application design
 
 #### Caching, Queues & Background Processing
+<p>
+  <img src="https://img.shields.io/badge/Upstash-00C98D?style=for-the-badge&logo=upstash&logoColor=111111" height="28" alt="Upstash" />
+</p>
 
 - **Upstash Redis** – caching and rate limiting
 - **Upstash QStash** – messaging and background task delivery
 - Asynchronous and scheduled workflows
 
 #### Cloud Services, Integrations & Observability
+<p>
+  <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white" height="28" alt="Brevo" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height="28" alt="Sentry" />
+  <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge&logoColor=white" height="28" alt="Firecrawl" />
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logoColor=white" height="28" alt="OpenRouter" />
+</p>
 
 - **Brevo** – transactional email and email delivery
 - **Cloudinary** – media uploads and asset management
@@ -163,11 +179,14 @@ Most of my recent development work is in private repositories, so the projects b
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Statistics
 
-For the most accurate and up-to-date view of my activity, repositories, and languages, visit my [GitHub profile](https://github.com/lucaskojo02).
+<p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub profile statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Most used programming languages" />
+</p>
 
-> **Note:** I've removed the third-party statistics cards for now. Their public hosting can be unreliable or rate-limited, which may cause broken images. I'd rather keep this section clean than display statistics that fail to load.
+These cards are generated and committed to this repository daily with GitHub Actions, rather than being served by a shared public image endpoint. You can also explore my [GitHub profile](https://github.com/lucaskojo02).
 
 ---
 
