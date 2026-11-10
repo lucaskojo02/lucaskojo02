@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Lucas Kojo
 
-### TypeScript-Focused Full-Stack & Mobile Developer | Data Science Enthusiast
+### TypeScript-First Full-Stack & Mobile Developer | Data Science Enthusiast
 
 I'm a developer and Data Science & Analytics student at **Jomo Kenyatta University of Agriculture and Technology (JKUAT)**. I enjoy building modern web and mobile applications, designing maintainable application architectures, and exploring how data and AI can solve practical problems.
 
-My current development work is predominantly **TypeScript-first**. I work across frontend, backend, and mobile applications, with a particular interest in end-to-end type safety, reusable monorepo architecture, authentication, data synchronization, and reliable background processing.
+My approach to software development is **TypeScript-first, with a strong emphasis on type safety and reliable software design**. I use TypeScript as my primary language not simply because I enjoy it, but because its type system helps make application code more predictable, define clear contracts between system components, catch many errors during development, and make larger codebases easier to maintain and refactor. I work across frontend, backend, and mobile applications, with a particular interest in end-to-end type safety, reusable monorepo architecture, authentication, data synchronization, and reliable background processing.
 
 - 💻 Building full-stack applications with TypeScript, React, TanStack, Bun, and ElysiaJS.
 - 📱 Developing cross-platform mobile applications with Expo and React Native.
@@ -25,7 +25,7 @@ The sections below distinguish the tools I currently use from technologies I've 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
 </p>
 
-**TypeScript** is my primary language for modern application development across web, backend, and mobile projects.
+**TypeScript** is my primary language across web, backend, and mobile development. I value it as an engineering tool for expressing clear contracts, catching type-related mistakes early, improving refactoring confidence, and building maintainable systems. Type safety is a key goal; runtime validation, testing, and security checks remain essential because TypeScript types are erased at runtime.
 
 #### Frontend & TanStack Ecosystem
 <p>
