@@ -22,20 +22,20 @@ The sections below distinguish the tools I currently use from technologies I've 
 
 #### Language
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/TypeScript-374151?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
 </p>
 
 **TypeScript** is my primary language across web, backend, and mobile development. I value it as an engineering tool for expressing clear contracts, catching type-related mistakes early, improving refactoring confidence, and building maintainable systems. Type safety is a key goal; runtime validation, testing, and security checks remain essential because TypeScript types are erased at runtime.
 
 #### Frontend & TanStack Ecosystem
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" height="28" alt="React" />
-  <img src="https://img.shields.io/badge/TanStack-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" height="28" alt="TanStack" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="28" alt="Vite" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge" height="28" alt="shadcn%2Fui" />
-  <img src="https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge" height="28" alt="Radix UI" />
-  <img src="https://img.shields.io/badge/Lucide-F56565?style=for-the-badge&logo=lucide&logoColor=white" height="28" alt="Lucide" />
+  <img src="https://img.shields.io/badge/React-374151?style=for-the-badge&logo=react&logoColor=white" height="28" alt="React" />
+  <img src="https://img.shields.io/badge/TanStack-374151?style=for-the-badge&logo=tanstack&logoColor=white" height="28" alt="TanStack" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-374151?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-374151?style=for-the-badge&logo=vite&logoColor=white" height="28" alt="Vite" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-374151?style=for-the-badge" height="28" alt="shadcn%2Fui" />
+  <img src="https://img.shields.io/badge/Radix%20UI-374151?style=for-the-badge" height="28" alt="Radix UI" />
+  <img src="https://img.shields.io/badge/Lucide-374151?style=for-the-badge&logo=lucide&logoColor=white" height="28" alt="Lucide" />
 </p>
 
 - **TanStack:** Start, Router, Query, Form, Table, Virtual, and related developer tools
@@ -45,9 +45,9 @@ The sections below distinguish the tools I currently use from technologies I've 
 
 #### Backend & API Development
 <p>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" height="28" alt="Bun" />
-  <img src="https://img.shields.io/badge/ElysiaJS-8B5CF6?style=for-the-badge" height="28" alt="ElysiaJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Bun-374151?style=for-the-badge&logo=bun&logoColor=white" height="28" alt="Bun" />
+  <img src="https://img.shields.io/badge/ElysiaJS-374151?style=for-the-badge" height="28" alt="ElysiaJS" />
+  <img src="https://img.shields.io/badge/Node.js-374151?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28" alt="Node.js" />
 </p>
 
 - **Bun** – runtime, package manager, and workspace tooling
@@ -56,7 +56,7 @@ The sections below distinguish the tools I currently use from technologies I've 
 
 #### API Clients & End-to-End Type Safety
 <p>
-  <img src="https://img.shields.io/badge/Eden%20Treaty-8B5CF6?style=for-the-badge" height="28" alt="Eden Treaty" />
+  <img src="https://img.shields.io/badge/Eden%20Treaty-374151?style=for-the-badge" height="28" alt="Eden Treaty" />
 </p>
 
 - **Eden Treaty** – type-safe client for consuming ElysiaJS APIs, with request and response types inferred from backend route definitions
@@ -64,9 +64,9 @@ The sections below distinguish the tools I currently use from technologies I've 
 
 #### Mobile Development
 <p>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=white" height="28" alt="React Native" />
-  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="NativeWind" />
+  <img src="https://img.shields.io/badge/Expo-374151?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo" />
+  <img src="https://img.shields.io/badge/React%20Native-374151?style=for-the-badge&logo=react&logoColor=white" height="28" alt="React Native" />
+  <img src="https://img.shields.io/badge/NativeWind-374151?style=for-the-badge&logo=tailwindcss&logoColor=white" height="28" alt="NativeWind" />
 </p>
 
 - **React Native**
@@ -75,11 +75,11 @@ The sections below distinguish the tools I currently use from technologies I've 
 
 #### Databases & Data Access
 <p>
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111111" height="28" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=111111" height="28" alt="Neon" />
-  <img src="https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=111111" height="28" alt="Turso" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-374151?style=for-the-badge&logo=drizzle&logoColor=white" height="28" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/PostgreSQL-374151?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-374151?style=for-the-badge&logo=sqlite&logoColor=white" height="28" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Neon-374151?style=for-the-badge&logo=neon&logoColor=white" height="28" alt="Neon" />
+  <img src="https://img.shields.io/badge/Turso-374151?style=for-the-badge&logo=turso&logoColor=white" height="28" alt="Turso" />
 </p>
 
 - **Drizzle ORM** and Drizzle Kit
@@ -91,9 +91,9 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Authentication & Application Security
 <p>
-  <img src="https://img.shields.io/badge/Better%20Auth-222222?style=for-the-badge" height="28" alt="Better Auth" />
-  <img src="https://img.shields.io/badge/OAuth-3B82F6?style=for-the-badge" height="28" alt="OAuth" />
-  <img src="https://img.shields.io/badge/Passkeys-475569?style=for-the-badge" height="28" alt="Passkeys" />
+  <img src="https://img.shields.io/badge/Better%20Auth-374151?style=for-the-badge" height="28" alt="Better Auth" />
+  <img src="https://img.shields.io/badge/OAuth-374151?style=for-the-badge" height="28" alt="OAuth" />
+  <img src="https://img.shields.io/badge/Passkeys-374151?style=for-the-badge" height="28" alt="Passkeys" />
 </p>
 
 - **Better Auth**
@@ -104,9 +104,9 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Caching, Queues & Background Processing
 <p>
-  <img src="https://img.shields.io/badge/Upstash-00C98D?style=for-the-badge&logo=upstash&logoColor=111111" height="28" alt="Upstash" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="Redis" />
-  <img src="https://img.shields.io/badge/QStash-00C98D?style=for-the-badge" height="28" alt="QStash" />
+  <img src="https://img.shields.io/badge/Upstash-374151?style=for-the-badge&logo=upstash&logoColor=white" height="28" alt="Upstash" />
+  <img src="https://img.shields.io/badge/Redis-374151?style=for-the-badge&logo=redis&logoColor=white" height="28" alt="Redis" />
+  <img src="https://img.shields.io/badge/QStash-374151?style=for-the-badge" height="28" alt="QStash" />
 </p>
 
 - **Upstash Redis** – caching and rate limiting
@@ -115,11 +115,11 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Cloud Services, Integrations & Observability
 <p>
-  <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge&logo=brevo&logoColor=white" height="28" alt="Brevo" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height="28" alt="Sentry" />
-  <img src="https://img.shields.io/badge/Firecrawl-FF6B35?style=for-the-badge" height="28" alt="Firecrawl" />
-  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge" height="28" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/Brevo-374151?style=for-the-badge&logo=brevo&logoColor=white" height="28" alt="Brevo" />
+  <img src="https://img.shields.io/badge/Cloudinary-374151?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Sentry-374151?style=for-the-badge&logo=sentry&logoColor=white" height="28" alt="Sentry" />
+  <img src="https://img.shields.io/badge/Firecrawl-374151?style=for-the-badge" height="28" alt="Firecrawl" />
+  <img src="https://img.shields.io/badge/OpenRouter-374151?style=for-the-badge" height="28" alt="OpenRouter" />
 </p>
 
 - **Brevo** – transactional email and email delivery
@@ -130,13 +130,13 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Monorepos, Tooling & Developer Experience
 <p>
-  <img src="https://img.shields.io/badge/Bun%20Workspaces-000000?style=for-the-badge&logo=bun&logoColor=white" height="28" alt="Bun Workspaces" />
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" height="28" alt="Turborepo" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" height="28" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Bun%20Workspaces-374151?style=for-the-badge&logo=bun&logoColor=white" height="28" alt="Bun Workspaces" />
+  <img src="https://img.shields.io/badge/Turborepo-374151?style=for-the-badge&logo=turborepo&logoColor=white" height="28" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/Git-374151?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-374151?style=for-the-badge&logo=docker&logoColor=white" height="28" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-374151?style=for-the-badge&logo=linux&logoColor=white" height="28" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-374151?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" alt="VS Code" />
 </p>
 
 - **Bun Workspaces**
@@ -147,15 +147,15 @@ I choose the database based on each project's requirements rather than forcing e
 
 #### Data Science & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" height="28" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=111111" height="28" alt="scikit--learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" height="28" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel" />
+  <img src="https://img.shields.io/badge/Python-374151?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-374151?style=for-the-badge&logo=pandas&logoColor=white" height="28" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-374151?style=for-the-badge&logo=numpy&logoColor=white" height="28" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-374151?style=for-the-badge" height="28" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/scikit--learn-374151?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28" alt="scikit--learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-374151?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Jupyter-374151?style=for-the-badge&logo=jupyter&logoColor=white" height="28" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Power%20BI-374151?style=for-the-badge&logo=powerbi&logoColor=white" height="28" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-374151?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" alt="Excel" />
 </p>
 
 - Python, Pandas, and NumPy
@@ -170,17 +170,17 @@ I choose the database based on each project's requirements rather than forcing e
 These technologies helped build my foundations in programming and web development. They are part of my experience, but are not the primary tools in my current projects.
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" height="28" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="28" alt="PHP" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" height="28" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" alt="C%2B%2B" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-374151?style=for-the-badge&logo=javascript&logoColor=white" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-374151?style=for-the-badge&logo=php&logoColor=white" height="28" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-374151?style=for-the-badge&logo=c&logoColor=white" height="28" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-374151?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" alt="C%2B%2B" />
+  <img src="https://img.shields.io/badge/Java-374151?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-374151?style=for-the-badge&logo=html5&logoColor=white" height="28" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-374151?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-374151?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Express.js-374151?style=for-the-badge&logo=express&logoColor=white" height="28" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-374151?style=for-the-badge&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-374151?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" />
 </p>
 
 - **Languages:** JavaScript, PHP, C, C++, and Java
