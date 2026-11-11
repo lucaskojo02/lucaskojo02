@@ -263,14 +263,7 @@ Nexus is an X-inspired social networking application built with a TypeScript-fir
 
 A product and inventory management project exploring modern full-stack application development, database-backed workflows, media management, and reliable application architecture.
 
-<p>
-  <img src="https://img.shields.io/badge/TanStack%20Start-FF4154?style=for-the-badge&logo=tanstack&logoColor=white" height="28" alt="TanStack Start" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="28" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=111111" height="28" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" height="28" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" height="28" alt="Sentry" />
-</p>
+<small>**Technologies:** TanStack Start, TypeScript, Drizzle ORM, PostgreSQL, Cloudinary, Sentry.</small>
 ---
 
 ## 📊 GitHub Statistics
